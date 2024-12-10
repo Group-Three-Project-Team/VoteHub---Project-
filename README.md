@@ -14,10 +14,13 @@ _Getting Started_
 3. Start the application using `npm start`
 
 _Contributions_
+
 Contributions are welcome! Please submit a pull request with your changes.
 
 _License_
+
 This project is licensed under the MIT License.
 
 _Support_
+
 Need help or have questions? Contact us at anasaahphilip@gmail.com
