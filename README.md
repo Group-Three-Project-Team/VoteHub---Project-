@@ -1,42 +1,21 @@
-
 _VoteHub_
 
-_Private Repository_
+_Description_
+VoteHub aims to provide a secure, transparent, and user-friendly voting experience.
 
-This is a private repository for the VoteHub project. Access is restricted to authorized collaborators.
-
-_Project Overview_
-
-VoteHub is an innovative platform designed to streamline voting processes.
-
-_Table of Contents_
-
-- #introduction
-- #system-architecture
-- #component-descriptions
-- #getting-started
-- #contributions
-
-_Introduction_
-
-VoteHub aims to provide a secure, transparent, and user-friendly voting experience. Our mission is to increase voter participation and trust in the electoral process.
-
-_System Architecture_
-
-The system architecture is based on a microservices design, utilizing a combination of Node.js, Express.js, and MongoDB.
-
-_Component Descriptions_
-
-- Voter Registration Service: Handles voter registration and verification.
-- Voting Service: Manages the voting process and vote counting.
-- Results Service: Displays election results.
+_System Design Document_
+For a comprehensive overview of the project's architecture, components, and design decisions, please refer to our (https://github.com/Phvl-0/VoteHub-Project-Online-Election-System-/blob/7de16524993de35b0fbf8ff0314588dc50a3ca4f/Online%20Election%20System%20-%20SDD(Markdown).md).
 
 _Getting Started_
-
-- Clone the repository using `git clone [https://github.com/Phvl-0/VoteHub-Project-Online-Election-System-.git]`
-- Install dependencies using `npm install`
-- Start the application using `npm start`
+1. Clone the repository using `git clone [repository URL]`
+2. Install dependencies using `npm install`
+3. Start the application using `npm start`
 
 _Contributions_
+Contributions are welcome! Please submit a pull request with your changes.
 
-Contributions are welcome from authorized collaborators. Please submit a pull request with your changes.
+_License_
+This project is licensed under the MIT License.
+
+_Support_
+Need help or have questions? Contact us at anasaahphilip@gmail.com
